@@ -1,14 +1,14 @@
 ---
-layout: default
----
+layout: default 
 
-{% include 01-name.md %}
+## This is a level 2 header
 
-<br>
+### Level 3 headers are the most commonly used in my experience
 
-{% include 02-image.md %}
+#### Level 4 is cool too I suppose
 
-<br>
+#### I believe I was taught not to use level 5
 
-{% include 03-links.md %}
+###### As far as I know I have never used a level 6 header
+
 
