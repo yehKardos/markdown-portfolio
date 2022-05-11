@@ -1,8 +1,5 @@
 ---
-layout: default
----
-
-{% include 01-name.md %}
+layout: default 
 
 ## This is a level 2 header
 
@@ -13,3 +10,5 @@ layout: default
 #### I believe I was taught not to use level 5
 
 ###### As far as I know I have never used a level 6 header
+
+
